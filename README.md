@@ -11,4 +11,4 @@ Below figure shown for reference.
 **Following EDA tools are used:**
 - *NG-SPICE* for circuit design
 - *Magic* for layout
-- *Verilog* HDL design
+- *Verilog* for HDL design
