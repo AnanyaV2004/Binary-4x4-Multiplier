@@ -1,0 +1,1280 @@
+A0: 0    A1: 0    A2: 0    A3: 0   
+B0: 0    B1: 0    B2: 0    B3: 0   
+Leakage Power: 6.96479E-10
+Current: -6.96479E-10
+
+A0: 1    A1: 0    A2: 0    A3: 0   
+B0: 0    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.08373E-10
+Current: -7.08373E-10
+
+A0: 0    A1: 1    A2: 0    A3: 0   
+B0: 0    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.08323E-10
+Current: -7.08324E-10
+
+A0: 1    A1: 1    A2: 0    A3: 0   
+B0: 0    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.20269E-10
+Current: -7.20269E-10
+
+A0: 0    A1: 0    A2: 1    A3: 0   
+B0: 0    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.08363E-10
+Current: -7.08363E-10
+
+A0: 1    A1: 0    A2: 1    A3: 0   
+B0: 0    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.20249E-10
+Current: -7.20249E-10
+
+A0: 0    A1: 1    A2: 1    A3: 0   
+B0: 0    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.20226E-10
+Current: -7.20226E-10
+
+A0: 1    A1: 1    A2: 1    A3: 0   
+B0: 0    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.32171E-10
+Current: -7.32172E-10
+
+A0: 0    A1: 0    A2: 0    A3: 1   
+B0: 0    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.08389E-10
+Current: -7.08389E-10
+
+A0: 1    A1: 0    A2: 0    A3: 1   
+B0: 0    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.2028E-10
+Current: -7.2028E-10
+
+A0: 0    A1: 1    A2: 0    A3: 1   
+B0: 0    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.20275E-10
+Current: -7.20275E-10
+
+A0: 1    A1: 1    A2: 0    A3: 1   
+B0: 0    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.32164E-10
+Current: -7.32164E-10
+
+A0: 0    A1: 0    A2: 1    A3: 1   
+B0: 0    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.20252E-10
+Current: -7.20252E-10
+
+A0: 1    A1: 0    A2: 1    A3: 1   
+B0: 0    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.32087E-10
+Current: -7.32087E-10
+
+A0: 0    A1: 1    A2: 1    A3: 1   
+B0: 0    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.32104E-10
+Current: -7.32104E-10
+
+A0: 1    A1: 1    A2: 1    A3: 1   
+B0: 0    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.44088E-10
+Current: -7.44088E-10
+
+A0: 0    A1: 0    A2: 0    A3: 0   
+B0: 1    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.11598E-10
+Current: -7.11598E-10
+
+A0: 1    A1: 0    A2: 0    A3: 0   
+B0: 1    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.22995E-10
+Current: -7.22995E-10
+
+A0: 0    A1: 1    A2: 0    A3: 0   
+B0: 1    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.27985E-10
+Current: -7.27985E-10
+
+A0: 1    A1: 1    A2: 0    A3: 0   
+B0: 1    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.39353E-10
+Current: -7.39353E-10
+
+A0: 0    A1: 0    A2: 1    A3: 0   
+B0: 1    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.38808E-10
+Current: -7.38809E-10
+
+A0: 1    A1: 0    A2: 1    A3: 0   
+B0: 1    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.50145E-10
+Current: -7.50145E-10
+
+A0: 0    A1: 1    A2: 1    A3: 0   
+B0: 1    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.55174E-10
+Current: -7.55174E-10
+
+A0: 1    A1: 1    A2: 1    A3: 0   
+B0: 1    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.66558E-10
+Current: -7.66558E-10
+
+A0: 0    A1: 0    A2: 0    A3: 1   
+B0: 1    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.49496E-10
+Current: -7.49496E-10
+
+A0: 1    A1: 0    A2: 0    A3: 1   
+B0: 1    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.60959E-10
+Current: -7.60959E-10
+
+A0: 0    A1: 1    A2: 0    A3: 1   
+B0: 1    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.65976E-10
+Current: -7.65976E-10
+
+A0: 1    A1: 1    A2: 0    A3: 1   
+B0: 1    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.77395E-10
+Current: -7.77395E-10
+
+A0: 0    A1: 0    A2: 1    A3: 1   
+B0: 1    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.76713E-10
+Current: -7.76713E-10
+
+A0: 1    A1: 0    A2: 1    A3: 1   
+B0: 1    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.88123E-10
+Current: -7.88123E-10
+
+A0: 0    A1: 1    A2: 1    A3: 1   
+B0: 1    B1: 0    B2: 0    B3: 0   
+Leakage Power: 7.9315E-10
+Current: -7.9315E-10
+
+A0: 1    A1: 1    A2: 1    A3: 1   
+B0: 1    B1: 0    B2: 0    B3: 0   
+Leakage Power: 8.04525E-10
+Current: -8.04525E-10
+
+A0: 0    A1: 0    A2: 0    A3: 0   
+B0: 0    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.11563E-10
+Current: -7.11563E-10
+
+A0: 1    A1: 0    A2: 0    A3: 0   
+B0: 0    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.28797E-10
+Current: -7.28797E-10
+
+A0: 0    A1: 1    A2: 0    A3: 0   
+B0: 0    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.3799E-10
+Current: -7.3799E-10
+
+A0: 1    A1: 1    A2: 0    A3: 0   
+B0: 0    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.55174E-10
+Current: -7.55174E-10
+
+A0: 0    A1: 0    A2: 1    A3: 0   
+B0: 0    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.48726E-10
+Current: -7.48726E-10
+
+A0: 1    A1: 0    A2: 1    A3: 0   
+B0: 0    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.65975E-10
+Current: -7.65975E-10
+
+A0: 0    A1: 1    A2: 1    A3: 0   
+B0: 0    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.7519E-10
+Current: -7.7519E-10
+
+A0: 1    A1: 1    A2: 1    A3: 0   
+B0: 0    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.92328E-10
+Current: -7.92328E-10
+
+A0: 0    A1: 0    A2: 0    A3: 1   
+B0: 0    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.48705E-10
+Current: -7.48705E-10
+
+A0: 1    A1: 0    A2: 0    A3: 1   
+B0: 0    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.65915E-10
+Current: -7.65915E-10
+
+A0: 0    A1: 1    A2: 0    A3: 1   
+B0: 0    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.75133E-10
+Current: -7.75133E-10
+
+A0: 1    A1: 1    A2: 0    A3: 1   
+B0: 0    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.92325E-10
+Current: -7.92325E-10
+
+A0: 0    A1: 0    A2: 1    A3: 1   
+B0: 0    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.85926E-10
+Current: -7.85926E-10
+
+A0: 1    A1: 0    A2: 1    A3: 1   
+B0: 0    B1: 1    B2: 0    B3: 0   
+Leakage Power: 8.0312E-10
+Current: -8.0312E-10
+
+A0: 0    A1: 1    A2: 1    A3: 1   
+B0: 0    B1: 1    B2: 0    B3: 0   
+Leakage Power: 8.12372E-10
+Current: -8.12372E-10
+
+A0: 1    A1: 1    A2: 1    A3: 1   
+B0: 0    B1: 1    B2: 0    B3: 0   
+Leakage Power: 8.29528E-10
+Current: -8.29528E-10
+
+A0: 0    A1: 0    A2: 0    A3: 0   
+B0: 1    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.26721E-10
+Current: -7.26721E-10
+
+A0: 1    A1: 0    A2: 0    A3: 0   
+B0: 1    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.43423E-10
+Current: -7.43423E-10
+
+A0: 0    A1: 1    A2: 0    A3: 0   
+B0: 1    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.57582E-10
+Current: -7.57582E-10
+
+A0: 1    A1: 1    A2: 0    A3: 0   
+B0: 1    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.62453E-10
+Current: -7.62453E-10
+
+A0: 0    A1: 0    A2: 1    A3: 0   
+B0: 1    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.79198E-10
+Current: -7.79198E-10
+
+A0: 1    A1: 0    A2: 1    A3: 0   
+B0: 1    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.95899E-10
+Current: -7.95899E-10
+
+A0: 0    A1: 1    A2: 1    A3: 0   
+B0: 1    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.72444E-10
+Current: -7.72444E-10
+
+A0: 1    A1: 1    A2: 1    A3: 0   
+B0: 1    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.8598E-10
+Current: -7.8598E-10
+
+A0: 0    A1: 0    A2: 0    A3: 1   
+B0: 1    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.89947E-10
+Current: -7.89947E-10
+
+A0: 1    A1: 0    A2: 0    A3: 1   
+B0: 1    B1: 1    B2: 0    B3: 0   
+Leakage Power: 8.06696E-10
+Current: -8.06696E-10
+
+A0: 0    A1: 1    A2: 0    A3: 1   
+B0: 1    B1: 1    B2: 0    B3: 0   
+Leakage Power: 8.20873E-10
+Current: -8.20873E-10
+
+A0: 1    A1: 1    A2: 0    A3: 1   
+B0: 1    B1: 1    B2: 0    B3: 0   
+Leakage Power: 8.13844E-10
+Current: -8.13844E-10
+
+A0: 0    A1: 0    A2: 1    A3: 1   
+B0: 1    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.8321E-10
+Current: -7.8321E-10
+
+A0: 1    A1: 0    A2: 1    A3: 1   
+B0: 1    B1: 1    B2: 0    B3: 0   
+Leakage Power: 7.99964E-10
+Current: -7.99964E-10
+
+A0: 0    A1: 1    A2: 1    A3: 1   
+B0: 1    B1: 1    B2: 0    B3: 0   
+Leakage Power: 8.01727E-10
+Current: -8.01727E-10
+
+A0: 1    A1: 1    A2: 1    A3: 1   
+B0: 1    B1: 1    B2: 0    B3: 0   
+Leakage Power: 8.15302E-10
+Current: -8.15302E-10
+
+A0: 0    A1: 0    A2: 0    A3: 0   
+B0: 0    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.1157E-10
+Current: -7.1157E-10
+
+A0: 1    A1: 0    A2: 0    A3: 0   
+B0: 0    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.33788E-10
+Current: -7.33788E-10
+
+A0: 0    A1: 1    A2: 0    A3: 0   
+B0: 0    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.44575E-10
+Current: -7.44575E-10
+
+A0: 1    A1: 1    A2: 0    A3: 0   
+B0: 0    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.66722E-10
+Current: -7.66722E-10
+
+A0: 0    A1: 0    A2: 1    A3: 0   
+B0: 0    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.49542E-10
+Current: -7.49541E-10
+
+A0: 1    A1: 0    A2: 1    A3: 0   
+B0: 0    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.71739E-10
+Current: -7.71739E-10
+
+A0: 0    A1: 1    A2: 1    A3: 0   
+B0: 0    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.82513E-10
+Current: -7.82513E-10
+
+A0: 1    A1: 1    A2: 1    A3: 0   
+B0: 0    B1: 0    B2: 1    B3: 0   
+Leakage Power: 8.04721E-10
+Current: -8.04721E-10
+
+A0: 0    A1: 0    A2: 0    A3: 1   
+B0: 0    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.42969E-10
+Current: -7.42969E-10
+
+A0: 1    A1: 0    A2: 0    A3: 1   
+B0: 0    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.65179E-10
+Current: -7.65179E-10
+
+A0: 0    A1: 1    A2: 0    A3: 1   
+B0: 0    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.75912E-10
+Current: -7.75912E-10
+
+A0: 1    A1: 1    A2: 0    A3: 1   
+B0: 0    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.98173E-10
+Current: -7.98173E-10
+
+A0: 0    A1: 0    A2: 1    A3: 1   
+B0: 0    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.80927E-10
+Current: -7.80927E-10
+
+A0: 1    A1: 0    A2: 1    A3: 1   
+B0: 0    B1: 0    B2: 1    B3: 0   
+Leakage Power: 8.03145E-10
+Current: -8.03145E-10
+
+A0: 0    A1: 1    A2: 1    A3: 1   
+B0: 0    B1: 0    B2: 1    B3: 0   
+Leakage Power: 8.13898E-10
+Current: -8.13898E-10
+
+A0: 1    A1: 1    A2: 1    A3: 1   
+B0: 0    B1: 0    B2: 1    B3: 0   
+Leakage Power: 8.36173E-10
+Current: -8.36173E-10
+
+A0: 0    A1: 0    A2: 0    A3: 0   
+B0: 1    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.26699E-10
+Current: -7.26699E-10
+
+A0: 1    A1: 0    A2: 0    A3: 0   
+B0: 1    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.48405E-10
+Current: -7.48405E-10
+
+A0: 0    A1: 1    A2: 0    A3: 0   
+B0: 1    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.642E-10
+Current: -7.642E-10
+
+A0: 1    A1: 1    A2: 0    A3: 0   
+B0: 1    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.85895E-10
+Current: -7.85895E-10
+
+A0: 0    A1: 0    A2: 1    A3: 0   
+B0: 1    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.79943E-10
+Current: -7.79943E-10
+
+A0: 1    A1: 0    A2: 1    A3: 0   
+B0: 1    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.84018E-10
+Current: -7.84018E-10
+
+A0: 0    A1: 1    A2: 1    A3: 0   
+B0: 1    B1: 0    B2: 1    B3: 0   
+Leakage Power: 8.17451E-10
+Current: -8.17451E-10
+
+A0: 1    A1: 1    A2: 1    A3: 0   
+B0: 1    B1: 0    B2: 1    B3: 0   
+Leakage Power: 8.09653E-10
+Current: -8.09653E-10
+
+A0: 0    A1: 0    A2: 0    A3: 1   
+B0: 1    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.84147E-10
+Current: -7.84146E-10
+
+A0: 1    A1: 0    A2: 0    A3: 1   
+B0: 1    B1: 0    B2: 1    B3: 0   
+Leakage Power: 8.05923E-10
+Current: -8.05923E-10
+
+A0: 0    A1: 1    A2: 0    A3: 1   
+B0: 1    B1: 0    B2: 1    B3: 0   
+Leakage Power: 7.87388E-10
+Current: -7.87388E-10
+
+A0: 1    A1: 1    A2: 0    A3: 1   
+B0: 1    B1: 0    B2: 1    B3: 0   
+Leakage Power: 8.0912E-10
+Current: -8.0912E-10
+
+A0: 0    A1: 0    A2: 1    A3: 1   
+B0: 1    B1: 0    B2: 1    B3: 0   
+Leakage Power: 8.37429E-10
+Current: -8.37429E-10
+
+A0: 1    A1: 0    A2: 1    A3: 1   
+B0: 1    B1: 0    B2: 1    B3: 0   
+Leakage Power: 8.20953E-10
+Current: -8.20953E-10
+
+A0: 0    A1: 1    A2: 1    A3: 1   
+B0: 1    B1: 0    B2: 1    B3: 0   
+Leakage Power: 8.09345E-10
+Current: -8.09345E-10
+
+A0: 1    A1: 1    A2: 1    A3: 1   
+B0: 1    B1: 0    B2: 1    B3: 0   
+Leakage Power: 8.13427E-10
+Current: -8.13427E-10
+
+A0: 0    A1: 0    A2: 0    A3: 0   
+B0: 0    B1: 1    B2: 1    B3: 0   
+Leakage Power: 7.26676E-10
+Current: -7.26676E-10
+
+A0: 1    A1: 0    A2: 0    A3: 0   
+B0: 0    B1: 1    B2: 1    B3: 0   
+Leakage Power: 7.54195E-10
+Current: -7.54195E-10
+
+A0: 0    A1: 1    A2: 0    A3: 0   
+B0: 0    B1: 1    B2: 1    B3: 0   
+Leakage Power: 7.74186E-10
+Current: -7.74186E-10
+
+A0: 1    A1: 1    A2: 0    A3: 0   
+B0: 0    B1: 1    B2: 1    B3: 0   
+Leakage Power: 7.75308E-10
+Current: -7.75308E-10
+
+A0: 0    A1: 0    A2: 1    A3: 0   
+B0: 0    B1: 1    B2: 1    B3: 0   
+Leakage Power: 7.89979E-10
+Current: -7.89979E-10
+
+A0: 1    A1: 0    A2: 1    A3: 0   
+B0: 0    B1: 1    B2: 1    B3: 0   
+Leakage Power: 8.17491E-10
+Current: -8.17491E-10
+
+A0: 0    A1: 1    A2: 1    A3: 0   
+B0: 0    B1: 1    B2: 1    B3: 0   
+Leakage Power: 7.8951E-10
+Current: -7.89511E-10
+
+A0: 1    A1: 1    A2: 1    A3: 0   
+B0: 0    B1: 1    B2: 1    B3: 0   
+Leakage Power: 7.99347E-10
+Current: -7.99347E-10
+
+A0: 0    A1: 0    A2: 0    A3: 1   
+B0: 0    B1: 1    B2: 1    B3: 0   
+Leakage Power: 7.83369E-10
+Current: -7.83369E-10
+
+A0: 1    A1: 0    A2: 0    A3: 1   
+B0: 0    B1: 1    B2: 1    B3: 0   
+Leakage Power: 8.1088E-10
+Current: -8.1088E-10
+
+A0: 0    A1: 1    A2: 0    A3: 1   
+B0: 0    B1: 1    B2: 1    B3: 0   
+Leakage Power: 8.30857E-10
+Current: -8.30857E-10
+
+A0: 1    A1: 1    A2: 0    A3: 1   
+B0: 0    B1: 1    B2: 1    B3: 0   
+Leakage Power: 8.20153E-10
+Current: -8.20153E-10
+
+A0: 0    A1: 0    A2: 1    A3: 1   
+B0: 0    B1: 1    B2: 1    B3: 0   
+Leakage Power: 7.8368E-10
+Current: -7.8368E-10
+
+A0: 1    A1: 0    A2: 1    A3: 1   
+B0: 0    B1: 1    B2: 1    B3: 0   
+Leakage Power: 8.11196E-10
+Current: -8.11196E-10
+
+A0: 0    A1: 1    A2: 1    A3: 1   
+B0: 0    B1: 1    B2: 1    B3: 0   
+Leakage Power: 7.96938E-10
+Current: -7.96938E-10
+
+A0: 1    A1: 1    A2: 1    A3: 1   
+B0: 0    B1: 1    B2: 1    B3: 0   
+Leakage Power: 8.0679E-10
+Current: -8.06791E-10
+
+A0: 0    A1: 0    A2: 0    A3: 0   
+B0: 1    B1: 1    B2: 1    B3: 0   
+Leakage Power: 7.41833E-10
+Current: -7.41833E-10
+
+A0: 1    A1: 0    A2: 0    A3: 0   
+B0: 1    B1: 1    B2: 1    B3: 0   
+Leakage Power: 7.68845E-10
+Current: -7.68845E-10
+
+A0: 0    A1: 1    A2: 0    A3: 0   
+B0: 1    B1: 1    B2: 1    B3: 0   
+Leakage Power: 7.93826E-10
+Current: -7.93826E-10
+
+A0: 1    A1: 1    A2: 0    A3: 0   
+B0: 1    B1: 1    B2: 1    B3: 0   
+Leakage Power: 7.91276E-10
+Current: -7.91276E-10
+
+A0: 0    A1: 0    A2: 1    A3: 0   
+B0: 1    B1: 1    B2: 1    B3: 0   
+Leakage Power: 8.20383E-10
+Current: -8.20384E-10
+
+A0: 1    A1: 0    A2: 1    A3: 0   
+B0: 1    B1: 1    B2: 1    B3: 0   
+Leakage Power: 8.17848E-10
+Current: -8.17848E-10
+
+A0: 0    A1: 1    A2: 1    A3: 0   
+B0: 1    B1: 1    B2: 1    B3: 0   
+Leakage Power: 8.12055E-10
+Current: -8.12055E-10
+
+A0: 1    A1: 1    A2: 1    A3: 0   
+B0: 1    B1: 1    B2: 1    B3: 0   
+Leakage Power: 8.18506E-10
+Current: -8.18506E-10
+
+A0: 0    A1: 0    A2: 0    A3: 1   
+B0: 1    B1: 1    B2: 1    B3: 0   
+Leakage Power: 8.24575E-10
+Current: -8.24575E-10
+
+A0: 1    A1: 0    A2: 0    A3: 1   
+B0: 1    B1: 1    B2: 1    B3: 0   
+Leakage Power: 8.51599E-10
+Current: -8.51599E-10
+
+A0: 0    A1: 1    A2: 0    A3: 1   
+B0: 1    B1: 1    B2: 1    B3: 0   
+Leakage Power: 8.10946E-10
+Current: -8.10946E-10
+
+A0: 1    A1: 1    A2: 0    A3: 1   
+B0: 1    B1: 1    B2: 1    B3: 0   
+Leakage Power: 8.17116E-10
+Current: -8.17116E-10
+
+A0: 0    A1: 0    A2: 1    A3: 1   
+B0: 1    B1: 1    B2: 1    B3: 0   
+Leakage Power: 8.11276E-10
+Current: -8.11276E-10
+
+A0: 1    A1: 0    A2: 1    A3: 1   
+B0: 1    B1: 1    B2: 1    B3: 0   
+Leakage Power: 8.20619E-10
+Current: -8.20619E-10
+
+A0: 0    A1: 1    A2: 1    A3: 1   
+B0: 1    B1: 1    B2: 1    B3: 0   
+Leakage Power: 8.11937E-10
+Current: -8.11937E-10
+
+A0: 1    A1: 1    A2: 1    A3: 1   
+B0: 1    B1: 1    B2: 1    B3: 0   
+Leakage Power: 8.27108E-10
+Current: -8.27108E-10
+
+A0: 0    A1: 0    A2: 0    A3: 0   
+B0: 0    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.11573E-10
+Current: -7.11573E-10
+
+A0: 1    A1: 0    A2: 0    A3: 0   
+B0: 0    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.3299E-10
+Current: -7.32991E-10
+
+A0: 0    A1: 1    A2: 0    A3: 0   
+B0: 0    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.37936E-10
+Current: -7.37936E-10
+
+A0: 1    A1: 1    A2: 0    A3: 0   
+B0: 0    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.59325E-10
+Current: -7.59325E-10
+
+A0: 0    A1: 0    A2: 1    A3: 0   
+B0: 0    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.43793E-10
+Current: -7.43793E-10
+
+A0: 1    A1: 0    A2: 1    A3: 0   
+B0: 0    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.65192E-10
+Current: -7.65192E-10
+
+A0: 0    A1: 1    A2: 1    A3: 0   
+B0: 0    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.70161E-10
+Current: -7.70161E-10
+
+A0: 1    A1: 1    A2: 1    A3: 0   
+B0: 0    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.91562E-10
+Current: -7.91562E-10
+
+A0: 0    A1: 0    A2: 0    A3: 1   
+B0: 0    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.32996E-10
+Current: -7.32996E-10
+
+A0: 1    A1: 0    A2: 0    A3: 1   
+B0: 0    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.54404E-10
+Current: -7.54404E-10
+
+A0: 0    A1: 1    A2: 0    A3: 1   
+B0: 0    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.59355E-10
+Current: -7.59355E-10
+
+A0: 1    A1: 1    A2: 0    A3: 1   
+B0: 0    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.80742E-10
+Current: -7.80742E-10
+
+A0: 0    A1: 0    A2: 1    A3: 1   
+B0: 0    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.6517E-10
+Current: -7.6517E-10
+
+A0: 1    A1: 0    A2: 1    A3: 1   
+B0: 0    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.86582E-10
+Current: -7.86582E-10
+
+A0: 0    A1: 1    A2: 1    A3: 1   
+B0: 0    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.91522E-10
+Current: -7.91522E-10
+
+A0: 1    A1: 1    A2: 1    A3: 1   
+B0: 0    B1: 0    B2: 0    B3: 1   
+Leakage Power: 8.12963E-10
+Current: -8.12964E-10
+
+A0: 0    A1: 0    A2: 0    A3: 0   
+B0: 1    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.26685E-10
+Current: -7.26685E-10
+
+A0: 1    A1: 0    A2: 0    A3: 0   
+B0: 1    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.47597E-10
+Current: -7.47596E-10
+
+A0: 0    A1: 1    A2: 0    A3: 0   
+B0: 1    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.5759E-10
+Current: -7.57589E-10
+
+A0: 1    A1: 1    A2: 0    A3: 0   
+B0: 1    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.78508E-10
+Current: -7.78507E-10
+
+A0: 0    A1: 0    A2: 1    A3: 0   
+B0: 1    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.74163E-10
+Current: -7.74162E-10
+
+A0: 1    A1: 0    A2: 1    A3: 0   
+B0: 1    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.95086E-10
+Current: -7.95085E-10
+
+A0: 0    A1: 1    A2: 1    A3: 0   
+B0: 1    B1: 0    B2: 0    B3: 1   
+Leakage Power: 8.05087E-10
+Current: -8.05087E-10
+
+A0: 1    A1: 1    A2: 1    A3: 0   
+B0: 1    B1: 0    B2: 0    B3: 1   
+Leakage Power: 8.25993E-10
+Current: -8.25993E-10
+
+A0: 0    A1: 0    A2: 0    A3: 1   
+B0: 1    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.74124E-10
+Current: -7.74125E-10
+
+A0: 1    A1: 0    A2: 0    A3: 1   
+B0: 1    B1: 0    B2: 0    B3: 1   
+Leakage Power: 7.7744E-10
+Current: -7.7744E-10
+
+A0: 0    A1: 1    A2: 0    A3: 1   
+B0: 1    B1: 0    B2: 0    B3: 1   
+Leakage Power: 8.05093E-10
+Current: -8.05093E-10
+
+A0: 1    A1: 1    A2: 0    A3: 1   
+B0: 1    B1: 0    B2: 0    B3: 1   
+Leakage Power: 8.05139E-10
+Current: -8.0514E-10
+
+A0: 0    A1: 0    A2: 1    A3: 1   
+B0: 1    B1: 0    B2: 0    B3: 1   
+Leakage Power: 8.2166E-10
+Current: -8.2166E-10
+
+A0: 1    A1: 0    A2: 1    A3: 1   
+B0: 1    B1: 0    B2: 0    B3: 1   
+Leakage Power: 8.24898E-10
+Current: -8.24898E-10
+
+A0: 0    A1: 1    A2: 1    A3: 1   
+B0: 1    B1: 0    B2: 0    B3: 1   
+Leakage Power: 8.52543E-10
+Current: -8.52543E-10
+
+A0: 1    A1: 1    A2: 1    A3: 1   
+B0: 1    B1: 0    B2: 0    B3: 1   
+Leakage Power: 8.29454E-10
+Current: -8.29454E-10
+
+A0: 0    A1: 0    A2: 0    A3: 0   
+B0: 0    B1: 1    B2: 0    B3: 1   
+Leakage Power: 7.2667E-10
+Current: -7.2667E-10
+
+A0: 1    A1: 0    A2: 0    A3: 0   
+B0: 0    B1: 1    B2: 0    B3: 1   
+Leakage Power: 7.5342E-10
+Current: -7.5342E-10
+
+A0: 0    A1: 1    A2: 0    A3: 0   
+B0: 0    B1: 1    B2: 0    B3: 1   
+Leakage Power: 7.67591E-10
+Current: -7.67591E-10
+
+A0: 1    A1: 1    A2: 0    A3: 0   
+B0: 0    B1: 1    B2: 0    B3: 1   
+Leakage Power: 7.94272E-10
+Current: -7.94272E-10
+
+A0: 0    A1: 0    A2: 1    A3: 0   
+B0: 0    B1: 1    B2: 0    B3: 1   
+Leakage Power: 7.8415E-10
+Current: -7.8415E-10
+
+A0: 1    A1: 0    A2: 1    A3: 0   
+B0: 0    B1: 1    B2: 0    B3: 1   
+Leakage Power: 7.93199E-10
+Current: -7.93199E-10
+
+A0: 0    A1: 1    A2: 1    A3: 0   
+B0: 0    B1: 1    B2: 0    B3: 1   
+Leakage Power: 8.25092E-10
+Current: -8.25091E-10
+
+A0: 1    A1: 1    A2: 1    A3: 0   
+B0: 0    B1: 1    B2: 0    B3: 1   
+Leakage Power: 8.22236E-10
+Current: -8.22236E-10
+
+A0: 0    A1: 0    A2: 0    A3: 1   
+B0: 0    B1: 1    B2: 0    B3: 1   
+Leakage Power: 7.73371E-10
+Current: -7.73371E-10
+
+A0: 1    A1: 0    A2: 0    A3: 1   
+B0: 0    B1: 1    B2: 0    B3: 1   
+Leakage Power: 8.00086E-10
+Current: -8.00086E-10
+
+A0: 0    A1: 1    A2: 0    A3: 1   
+B0: 0    B1: 1    B2: 0    B3: 1   
+Leakage Power: 7.91581E-10
+Current: -7.91581E-10
+
+A0: 1    A1: 1    A2: 0    A3: 1   
+B0: 0    B1: 1    B2: 0    B3: 1   
+Leakage Power: 8.18311E-10
+Current: -8.18311E-10
+
+A0: 0    A1: 0    A2: 1    A3: 1   
+B0: 0    B1: 1    B2: 0    B3: 1   
+Leakage Power: 8.30831E-10
+Current: -8.30831E-10
+
+A0: 1    A1: 0    A2: 1    A3: 1   
+B0: 0    B1: 1    B2: 0    B3: 1   
+Leakage Power: 8.13528E-10
+Current: -8.13528E-10
+
+A0: 0    A1: 1    A2: 1    A3: 1   
+B0: 0    B1: 1    B2: 0    B3: 1   
+Leakage Power: 8.16912E-10
+Current: -8.16912E-10
+
+A0: 1    A1: 1    A2: 1    A3: 1   
+B0: 0    B1: 1    B2: 0    B3: 1   
+Leakage Power: 8.25955E-10
+Current: -8.25955E-10
+
+A0: 0    A1: 0    A2: 0    A3: 0   
+B0: 1    B1: 1    B2: 0    B3: 1   
+Leakage Power: 7.41817E-10
+Current: -7.41818E-10
+
+A0: 1    A1: 0    A2: 0    A3: 0   
+B0: 1    B1: 1    B2: 0    B3: 1   
+Leakage Power: 7.68031E-10
+Current: -7.68031E-10
+
+A0: 0    A1: 1    A2: 0    A3: 0   
+B0: 1    B1: 1    B2: 0    B3: 1   
+Leakage Power: 7.87201E-10
+Current: -7.87201E-10
+
+A0: 1    A1: 1    A2: 0    A3: 0   
+B0: 1    B1: 1    B2: 0    B3: 1   
+Leakage Power: 7.89699E-10
+Current: -7.89699E-10
+
+A0: 0    A1: 0    A2: 1    A3: 0   
+B0: 1    B1: 1    B2: 0    B3: 1   
+Leakage Power: 8.14596E-10
+Current: -8.14596E-10
+
+A0: 1    A1: 0    A2: 1    A3: 0   
+B0: 1    B1: 1    B2: 0    B3: 1   
+Leakage Power: 8.2313E-10
+Current: -8.2313E-10
+
+A0: 0    A1: 1    A2: 1    A3: 0   
+B0: 1    B1: 1    B2: 0    B3: 1   
+Leakage Power: 7.91E-10
+Current: -7.91001E-10
+
+A0: 1    A1: 1    A2: 1    A3: 0   
+B0: 1    B1: 1    B2: 0    B3: 1   
+Leakage Power: 8.1401E-10
+Current: -8.1401E-10
+
+A0: 0    A1: 0    A2: 0    A3: 1   
+B0: 1    B1: 1    B2: 0    B3: 1   
+Leakage Power: 8.14567E-10
+Current: -8.14567E-10
+
+A0: 1    A1: 0    A2: 0    A3: 1   
+B0: 1    B1: 1    B2: 0    B3: 1   
+Leakage Power: 8.19956E-10
+Current: -8.19956E-10
+
+A0: 0    A1: 1    A2: 0    A3: 1   
+B0: 1    B1: 1    B2: 0    B3: 1   
+Leakage Power: 8.37305E-10
+Current: -8.37305E-10
+
+A0: 1    A1: 1    A2: 0    A3: 1   
+B0: 1    B1: 1    B2: 0    B3: 1   
+Leakage Power: 8.33992E-10
+Current: -8.33992E-10
+
+A0: 0    A1: 0    A2: 1    A3: 1   
+B0: 1    B1: 1    B2: 0    B3: 1   
+Leakage Power: 7.80988E-10
+Current: -7.80988E-10
+
+A0: 1    A1: 0    A2: 1    A3: 1   
+B0: 1    B1: 1    B2: 0    B3: 1   
+Leakage Power: 8.07202E-10
+Current: -8.07202E-10
+
+A0: 0    A1: 1    A2: 1    A3: 1   
+B0: 1    B1: 1    B2: 0    B3: 1   
+Leakage Power: 8.14024E-10
+Current: -8.14024E-10
+
+A0: 1    A1: 1    A2: 1    A3: 1   
+B0: 1    B1: 1    B2: 0    B3: 1   
+Leakage Power: 8.16238E-10
+Current: -8.16238E-10
+
+A0: 0    A1: 0    A2: 0    A3: 0   
+B0: 0    B1: 0    B2: 1    B3: 1   
+Leakage Power: 7.26681E-10
+Current: -7.26681E-10
+
+A0: 1    A1: 0    A2: 0    A3: 0   
+B0: 0    B1: 0    B2: 1    B3: 1   
+Leakage Power: 7.58396E-10
+Current: -7.58397E-10
+
+A0: 0    A1: 1    A2: 0    A3: 0   
+B0: 0    B1: 0    B2: 1    B3: 1   
+Leakage Power: 7.74202E-10
+Current: -7.74202E-10
+
+A0: 1    A1: 1    A2: 0    A3: 0   
+B0: 0    B1: 0    B2: 1    B3: 1   
+Leakage Power: 7.85012E-10
+Current: -7.85012E-10
+
+A0: 0    A1: 0    A2: 1    A3: 0   
+B0: 0    B1: 0    B2: 1    B3: 1   
+Leakage Power: 7.8499E-10
+Current: -7.8499E-10
+
+A0: 1    A1: 0    A2: 1    A3: 0   
+B0: 0    B1: 0    B2: 1    B3: 1   
+Leakage Power: 8.16658E-10
+Current: -8.16658E-10
+
+A0: 0    A1: 1    A2: 1    A3: 0   
+B0: 0    B1: 0    B2: 1    B3: 1   
+Leakage Power: 7.9211E-10
+Current: -7.9211E-10
+
+A0: 1    A1: 1    A2: 1    A3: 0   
+B0: 0    B1: 0    B2: 1    B3: 1   
+Leakage Power: 8.06138E-10
+Current: -8.06138E-10
+
+A0: 0    A1: 0    A2: 0    A3: 1   
+B0: 0    B1: 0    B2: 1    B3: 1   
+Leakage Power: 7.67582E-10
+Current: -7.67582E-10
+
+A0: 1    A1: 0    A2: 0    A3: 1   
+B0: 0    B1: 0    B2: 1    B3: 1   
+Leakage Power: 7.99289E-10
+Current: -7.99289E-10
+
+A0: 0    A1: 1    A2: 0    A3: 1   
+B0: 0    B1: 0    B2: 1    B3: 1   
+Leakage Power: 8.15072E-10
+Current: -8.15072E-10
+
+A0: 1    A1: 1    A2: 0    A3: 1   
+B0: 0    B1: 0    B2: 1    B3: 1   
+Leakage Power: 8.02755E-10
+Current: -8.02755E-10
+
+A0: 0    A1: 0    A2: 1    A3: 1   
+B0: 0    B1: 0    B2: 1    B3: 1   
+Leakage Power: 7.69714E-10
+Current: -7.69713E-10
+
+A0: 1    A1: 0    A2: 1    A3: 1   
+B0: 0    B1: 0    B2: 1    B3: 1   
+Leakage Power: 8.01457E-10
+Current: -8.01457E-10
+
+A0: 0    A1: 1    A2: 1    A3: 1   
+B0: 0    B1: 0    B2: 1    B3: 1   
+Leakage Power: 7.94519E-10
+Current: -7.94519E-10
+
+A0: 1    A1: 1    A2: 1    A3: 1   
+B0: 0    B1: 0    B2: 1    B3: 1   
+Leakage Power: 8.08555E-10
+Current: -8.08555E-10
+
+A0: 0    A1: 0    A2: 0    A3: 0   
+B0: 1    B1: 0    B2: 1    B3: 1   
+Leakage Power: 7.41786E-10
+Current: -7.41787E-10
+
+A0: 1    A1: 0    A2: 0    A3: 0   
+B0: 1    B1: 0    B2: 1    B3: 1   
+Leakage Power: 7.73004E-10
+Current: -7.73004E-10
+
+A0: 0    A1: 1    A2: 0    A3: 0   
+B0: 1    B1: 0    B2: 1    B3: 1   
+Leakage Power: 7.93792E-10
+Current: -7.93792E-10
+
+A0: 1    A1: 1    A2: 0    A3: 0   
+B0: 1    B1: 0    B2: 1    B3: 1   
+Leakage Power: 8.04164E-10
+Current: -8.04163E-10
+
+A0: 0    A1: 0    A2: 1    A3: 0   
+B0: 1    B1: 0    B2: 1    B3: 1   
+Leakage Power: 8.15393E-10
+Current: -8.15393E-10
+
+A0: 1    A1: 0    A2: 1    A3: 0   
+B0: 1    B1: 0    B2: 1    B3: 1   
+Leakage Power: 8.08361E-10
+Current: -8.08361E-10
+
+A0: 0    A1: 1    A2: 1    A3: 0   
+B0: 1    B1: 0    B2: 1    B3: 1   
+Leakage Power: 8.27048E-10
+Current: -8.27048E-10
+
+A0: 1    A1: 1    A2: 1    A3: 0   
+B0: 1    B1: 0    B2: 1    B3: 1   
+Leakage Power: 8.2292E-10
+Current: -8.2292E-10
+
+A0: 0    A1: 0    A2: 0    A3: 1   
+B0: 1    B1: 0    B2: 1    B3: 1   
+Leakage Power: 8.08783E-10
+Current: -8.08782E-10
+
+A0: 1    A1: 0    A2: 0    A3: 1   
+B0: 1    B1: 0    B2: 1    B3: 1   
+Leakage Power: 8.22324E-10
+Current: -8.22325E-10
+
+A0: 0    A1: 1    A2: 0    A3: 1   
+B0: 1    B1: 0    B2: 1    B3: 1   
+Leakage Power: 7.80671E-10
+Current: -7.80671E-10
+
+A0: 1    A1: 1    A2: 0    A3: 1   
+B0: 1    B1: 0    B2: 1    B3: 1   
+Leakage Power: 8.11903E-10
+Current: -8.11903E-10
+
+A0: 0    A1: 0    A2: 1    A3: 1   
+B0: 1    B1: 0    B2: 1    B3: 1   
+Leakage Power: 8.26214E-10
+Current: -8.26214E-10
+
+A0: 1    A1: 0    A2: 1    A3: 1   
+B0: 1    B1: 0    B2: 1    B3: 1   
+Leakage Power: 8.18946E-10
+Current: -8.18946E-10
+
+A0: 0    A1: 1    A2: 1    A3: 1   
+B0: 1    B1: 0    B2: 1    B3: 1   
+Leakage Power: 8.2132E-10
+Current: -8.2132E-10
+
+A0: 1    A1: 1    A2: 1    A3: 1   
+B0: 1    B1: 0    B2: 1    B3: 1   
+Leakage Power: 8.14314E-10
+Current: -8.14314E-10
+
+A0: 0    A1: 0    A2: 0    A3: 0   
+B0: 0    B1: 1    B2: 1    B3: 1   
+Leakage Power: 7.41762E-10
+Current: -7.41763E-10
+
+A0: 1    A1: 0    A2: 0    A3: 0   
+B0: 0    B1: 1    B2: 1    B3: 1   
+Leakage Power: 7.78815E-10
+Current: -7.78815E-10
+
+A0: 0    A1: 1    A2: 0    A3: 0   
+B0: 0    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.03819E-10
+Current: -8.0382E-10
+
+A0: 1    A1: 1    A2: 0    A3: 0   
+B0: 0    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.02285E-10
+Current: -8.02285E-10
+
+A0: 0    A1: 0    A2: 1    A3: 0   
+B0: 0    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.25333E-10
+Current: -8.25333E-10
+
+A0: 1    A1: 0    A2: 1    A3: 0   
+B0: 0    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.32846E-10
+Current: -8.32846E-10
+
+A0: 0    A1: 1    A2: 1    A3: 0   
+B0: 0    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.12773E-10
+Current: -8.12773E-10
+
+A0: 1    A1: 1    A2: 1    A3: 0   
+B0: 0    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.20233E-10
+Current: -8.20233E-10
+
+A0: 0    A1: 0    A2: 0    A3: 1   
+B0: 0    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.07984E-10
+Current: -8.07984E-10
+
+A0: 1    A1: 0    A2: 0    A3: 1   
+B0: 0    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.44985E-10
+Current: -8.44985E-10
+
+A0: 0    A1: 1    A2: 0    A3: 1   
+B0: 0    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.15162E-10
+Current: -8.15162E-10
+
+A0: 1    A1: 1    A2: 0    A3: 1   
+B0: 0    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.16837E-10
+Current: -8.16836E-10
+
+A0: 0    A1: 0    A2: 1    A3: 1   
+B0: 0    B1: 1    B2: 1    B3: 1   
+Leakage Power: 7.96158E-10
+Current: -7.96158E-10
+
+A0: 1    A1: 0    A2: 1    A3: 1   
+B0: 0    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.1555E-10
+Current: -8.1555E-10
+
+A0: 0    A1: 1    A2: 1    A3: 1   
+B0: 0    B1: 1    B2: 1    B3: 1   
+Leakage Power: 7.92581E-10
+Current: -7.92581E-10
+
+A0: 1    A1: 1    A2: 1    A3: 1   
+B0: 0    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.03222E-10
+Current: -8.03222E-10
+
+A0: 0    A1: 0    A2: 0    A3: 0   
+B0: 1    B1: 1    B2: 1    B3: 1   
+Leakage Power: 7.56935E-10
+Current: -7.56936E-10
+
+A0: 1    A1: 0    A2: 0    A3: 0   
+B0: 1    B1: 1    B2: 1    B3: 1   
+Leakage Power: 7.93473E-10
+Current: -7.93473E-10
+
+A0: 0    A1: 1    A2: 0    A3: 0   
+B0: 1    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.23378E-10
+Current: -8.23378E-10
+
+A0: 1    A1: 1    A2: 0    A3: 0   
+B0: 1    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.18227E-10
+Current: -8.18228E-10
+
+A0: 0    A1: 0    A2: 1    A3: 0   
+B0: 1    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.55803E-10
+Current: -8.55803E-10
+
+A0: 1    A1: 0    A2: 1    A3: 0   
+B0: 1    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.45123E-10
+Current: -8.45123E-10
+
+A0: 0    A1: 1    A2: 1    A3: 0   
+B0: 1    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.3531E-10
+Current: -8.3531E-10
+
+A0: 1    A1: 1    A2: 1    A3: 0   
+B0: 1    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.39119E-10
+Current: -8.39119E-10
+
+A0: 0    A1: 0    A2: 0    A3: 1   
+B0: 1    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.49191E-10
+Current: -8.49191E-10
+
+A0: 1    A1: 0    A2: 0    A3: 1   
+B0: 1    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.41695E-10
+Current: -8.41695E-10
+
+A0: 0    A1: 1    A2: 0    A3: 1   
+B0: 1    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.26614E-10
+Current: -8.26614E-10
+
+A0: 1    A1: 1    A2: 0    A3: 1   
+B0: 1    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.30408E-10
+Current: -8.30408E-10
+
+A0: 0    A1: 0    A2: 1    A3: 1   
+B0: 1    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.23735E-10
+Current: -8.23734E-10
+
+A0: 1    A1: 0    A2: 1    A3: 1   
+B0: 1    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.21988E-10
+Current: -8.21988E-10
+
+A0: 0    A1: 1    A2: 1    A3: 1   
+B0: 1    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.12291E-10
+Current: -8.12291E-10
+
+A0: 1    A1: 1    A2: 1    A3: 1   
+B0: 1    B1: 1    B2: 1    B3: 1   
+Leakage Power: 8.2507E-10
+Current: -8.2507E-10
+
