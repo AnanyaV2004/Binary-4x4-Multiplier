@@ -9,6 +9,6 @@ Below figure shown for reference.
 ![image](https://user-images.githubusercontent.com/101704193/233776224-e62b2099-20fd-49e9-9285-921aee76c664.png)
 
 **Following EDA tools are used:**
-*- NG-SPICE for circuit design
-*- Magic for layout
-*- Verilog HDL design*
+- *NG-SPICE for circuit design*
+- *Magic for layout*
+- *Verilog HDL design*
