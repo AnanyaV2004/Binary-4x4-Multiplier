@@ -12,3 +12,5 @@ Below figure shown for reference.
 - *NG-SPICE* for circuit design
 - *Magic* for layout
 - *Verilog* for HDL design
+
+Instructions and commands to run the files and comparison and inferences of the project are clearly mentioned in the Report.
